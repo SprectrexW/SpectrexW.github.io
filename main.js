@@ -188,9 +188,9 @@
   /**
    * Initiate portfolio lightbox 
    */
-  import GLightbox from 'glightbox';
   const portfolioLightbox = GLightbox({
     selector: '.portfolio-lightbox'
+     import GLightbox from 'glightbox';
   });
 
   /**
