@@ -4,6 +4,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+import GLightbox from 'glightbox';
+
 (function() {
   "use strict";
 
@@ -190,7 +193,7 @@
    */
   const portfolioLightbox = GLightbox({
     selector: '.portfolio-lightbox'
-     import GLightbox from 'glightbox';
+     
   });
 
   /**
