@@ -5,8 +5,6 @@
 * License: https://bootstrapmade.com/license/
 */
 
-import GLightbox from 'glightbox';
-
 (function() {
   "use strict";
 
